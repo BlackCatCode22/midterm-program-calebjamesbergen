@@ -1,0 +1,34 @@
+Midterm Program Output; by Caleb Bergen, Spring 2023, Fresno, CA
+
+
+
+Hyena Habitat:
+
+hy01; Madoa; 4 years old; birth date Mar 12, 2019; tan color; female; 70 pounds; from Friguia Park; arrived Mar 16, 2023
+hy02; Lou; 12 years old; birth date Jan 23, 2011; brown color; male; 150 pounds; from Friguia Park; arrived Mar 16, 2023
+hy03; Prince Nevarah; 4 years old; birth date May 07, 2019; black color; male; 120 pounds; from Friguia Park; arrived Mar 16, 2023
+hy04; Wema; 8 years old; birth date Jul 17, 2015; black and tan striped color; female; 105 pounds; from Friguia Park; arrived Mar 16, 2023
+
+
+Lion Habitat:
+
+li01; Kiara; 6 years old; birth date Jun 21, 2017; tan color; female; 300 pounds; from Zanzibar; arrived Mar 16, 2023
+li02; Kimba; 12 years old; birth date Feb 02, 2011; dark tan color; female; 375 pounds; from KopeLion; arrived Mar 16, 2023
+li03; Cecil; 22 years old; birth date Dec 08, 2001; golden color; male; 450 pounds; from Zanzibar; arrived Mar 16, 2023
+li04; Kimba; 4 years old; birth date Nov 06, 2019; tan and brown color; female; 275 pounds; from KopeLion; arrived Mar 16, 2023
+
+
+Bear Habitat:
+
+be01; Bungle; 7 years old; birth date Mar 11, 2016; brown color; male; 320 pounds; from Alaska Zoo; arrived Mar 16, 2023
+be02; Bungle; 25 years old; birth date Apr 01, 1998; black color; female; 425 pounds; from Woodland park Zoo; arrived Mar 16, 2023
+be03; Rupert; 4 years old; birth date Apr 01, 2019; black color; female; 355 pounds; from Woodland park Zoo; arrived Mar 16, 2023
+be04; Bungle; 4 years old; birth date Dec 29, 2019; brown color; male; 405 pounds; from Alaska Zoo; arrived Mar 16, 2023
+
+
+Tiger Habitat:
+
+ti01; Cosimia; 2 years old; birth date Oct 22, 2021; gold and tan stripes color; male; 270 pounds; from Dhaka; arrived Mar 16, 2023
+ti02; Amber; 4 years old; birth date Dec 20, 2019; black stripes color; female; 400 pounds; from Dhaka; arrived Mar 16, 2023
+ti03; Tony; 18 years old; birth date May 02, 2005; gold and tan color; male; 300 pounds; from Bardia; arrived Mar 16, 2023
+ti04; Jiba; 3 years old; birth date Dec 20, 2020; black stripes color; female; 285 pounds; from Bardia; arrived Mar 16, 2023
